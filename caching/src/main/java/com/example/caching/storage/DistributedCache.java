@@ -1,4 +1,4 @@
-package com.example.caching.caching;
+package com.example.caching.storage;
 import org.redisson.Redisson;
 import org.redisson.api.RMapCache;
 import org.redisson.config.Config;

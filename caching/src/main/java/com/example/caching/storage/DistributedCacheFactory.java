@@ -1,4 +1,4 @@
-package com.example.caching.caching;
+package com.example.caching.storage;
 import lombok.RequiredArgsConstructor;
 import org.redisson.config.Config;
 import org.springframework.stereotype.Component;
